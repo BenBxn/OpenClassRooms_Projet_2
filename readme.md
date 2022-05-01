@@ -3,6 +3,8 @@
 ------------
 ### Description du projet
 Ce projet est le n°2 du parcours [Développeur Web](https://openclassrooms.com/fr/paths/556-developpeur-web "Développeur  Web") qui consiste à transformer une maquette en site web avec HTML et CSS.
+<!-- ajouter context-->
+
 
 ### Cahiers des charges
 ##### Spécifications fonctionnelles
@@ -20,7 +22,7 @@ Ce projet est le n°2 du parcours [Développeur Web](https://openclassrooms.com/
 7. Code valide au W3C 
 8. Compatible sur les dernières versions de Google Chrome et Mozilla Firefox.
 
-### Compétences acquises
+### Compétences acquises <!--ajouter autres compétences-->
 - Intégrer du contenu conformément à une maquette.
 - Implémenter une interface responsive.
 ### Informations complémentaires
