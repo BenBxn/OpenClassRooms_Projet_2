@@ -25,4 +25,4 @@ Ce projet est le n°2 du parcours [Développeur Web](https://openclassrooms.com/
 - Implémenter une interface responsive.
 ### Informations complémentaires
 - Soutenance validé le 01/05/2022.
-- Lien vers le site : [Cliquez-ici] (    "Cliquez-ici").
+- Lien vers le site : [Cliquez-ici] (https://benbxn.github.io/OpenClassroomsProject/ "Cliquez-ici").
