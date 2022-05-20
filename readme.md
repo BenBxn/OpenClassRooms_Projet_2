@@ -1,7 +1,5 @@
-<p align="center">
 # Formation Développeur Web
 ## Projet 2 - Booki
-</p>
 ------------
 ### 📝 Description du projet
 Ce projet est le n°2 du parcours [Développeur Web](https://openclassrooms.com/fr/paths/556-developpeur-web "Développeur  Web") qui consiste à transformer une maquette en site web avec HTML et CSS.
