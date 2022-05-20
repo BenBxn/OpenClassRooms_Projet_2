@@ -7,9 +7,9 @@ Ce projet est le n°2 du parcours [Développeur Web](https://openclassrooms.com/
 ### 🎬 Context
 Stagiaire en tant que développeur web chez Booki, une petite entreprise proposant un outil de planification de vacances ! 
 Son site permettra aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
-
-<img alt="Logo Booki" width="50px" src="https://raw.githubusercontent.com/BenBxn/OpenClassRooms_Projet_2/main/images/logo/Booki.png" />
-
+<p align="center">
+<img alt="Logo Booki" width="100px" src="https://raw.githubusercontent.com/BenBxn/OpenClassRooms_Projet_2/main/images/logo/Booki.png" />
+</p>
 Chargé de créer un prototype en intégrant les maquettes réalisées par le designer UI, qui serviront de base de code pour le reste du développement,
 il faudra respecter les spécifications de design et les contraintes techniques reçu par mail via la CTO.
 
