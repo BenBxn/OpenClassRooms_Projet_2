@@ -24,7 +24,7 @@ il faudra respecter les spécifications de design et les contraintes techniques 
 2. Le travail consistait à travailler en desktop-first puis sur tablette puis sur téléphone.
 3. Différentes tailles et formats d'image sont disponibles et il faut faire les meilleurs choix d'optimisation et de rendu.
 4. Les icônes utilisées proviennent de Font Awesome.
-5. La charte graphique est la suivante : [#0065FC](https://via.placeholder.com/15/0065FC/000000?text=+) `#0065FC` Bleu, [#DEEBFF](https://via.placeholder.com/15/DEEBFF/000000?text=+) `#DEEBFF` Bleu claire, [#F2F2F2](https://via.placeholder.com/15/F2F2F2/000000?text=+) `#F2F2F2` Gris.
+5. La charte graphique est la suivante : `#0065FC` Bleu, `#DEEBFF` Bleu claire, `#F2F2F2` Gris.
 6. Obligation d'utiliser les pixels et les pourcentages au lieu des REM et EM. 
 7. Obligation d'utiliser Flexbox uniquement (pas de Grid).
 8. Interdiction d'utiliser un framework CSS ou préprocesseur CSS.
