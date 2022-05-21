@@ -29,7 +29,7 @@ il faudra respecter les spécifications de design et les contraintes techniques 
 7. Obligation d'utiliser Flexbox uniquement (pas de Grid).
 8. Interdiction d'utiliser un framework CSS ou préprocesseur CSS.
 9. Utilisation des balises sémantiques en HTML.
-10. Code valide au W3C 
+10. Code valide au W3C : [HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbenbxn.github.io%2FOpenClassRooms_Projet_2%2F) & [CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FBenBxn.github.io%2FOpenClassRooms_Projet_2&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
 11. Compatible sur les dernières versions de Google Chrome et Mozilla Firefox.
 
 ### 🎓 Compétences acquises et/ou Mises à jour
