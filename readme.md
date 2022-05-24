@@ -40,5 +40,5 @@ il faudra respecter les spécifications de design et les contraintes techniques 
 - Utiliser la ligne de commande dans un terminal
 
 ### 🔍 Informations complémentaires
-- Soutenance validé le 01/05/2022. ✅
+- Soutenance validée le 01/05/2022. ✅
 - Lien vers le site : https://BenBxn.github.io/OpenClassRooms_Projet_2 .🔗
